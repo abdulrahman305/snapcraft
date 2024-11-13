@@ -1,4 +1,4 @@
-name: snapcraft
+name: sauditech
 base: core22
 summary: easily create snaps
 description: |
