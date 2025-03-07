@@ -46,7 +46,7 @@ imagesize==1.4.1
 importlib_metadata==8.2.0
 jaraco.classes==3.4.0
 jeepney==0.8.0
-Jinja2==3.1.4
+Jinja2==3.1.6
 jsonschema==2.5.1
 keyring==24.3.1
 launchpadlib==2.0.0
